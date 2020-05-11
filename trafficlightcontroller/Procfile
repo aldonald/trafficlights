@@ -1,1 +1,1 @@
-web: gunicorn trafficlighcontroller.wsgi
+web: gunicorn trafficlightcontroller.wsgi
